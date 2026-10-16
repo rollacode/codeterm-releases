@@ -36,3 +36,7 @@ RWTe700EO23AkCc2cUmgTwzbZK/OStZ/EBly9tkVfW6QxW6bBQK3c/Ng
 ```
 
 Pin this key — never replace it without rotating every installed copy.
+
+Licensed under [PolyForm Shield 1.0.0](LICENSE) from 2026-10-16. Required Notice: Copyright (c) 2025 Andrey Kovalev.
+
+2026-10-16: All versions of this software, including every prior revision in this repository's history, are licensed solely under the PolyForm Shield License 1.0.0. No revision was ever distributed under the MIT License.
